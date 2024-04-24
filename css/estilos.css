@@ -1,0 +1,24 @@
+/* estilo a los enlaces quitando el subrazado y dando tamaño */
+a{
+    font-size: 17px;
+    text-decoration: none !important;
+}
+a:hover{
+    color: #0744c7 !important;
+}
+i{
+    font-size: 16px;
+}
+/* dando tamaño a los iconos de las redes sociales */
+.redes{
+    font-size: 30px;
+}
+/* logo siman */
+.imagenLogo{
+    width: 10rem;
+
+}
+/* img carousel */
+.carru{
+    height: 25rem;
+}
